@@ -17,7 +17,7 @@ It is easy to use and helps people see team results, player stats, and match det
 
 ---
 
-## Introduction / Problem
+## Introduction
 Cricket is loved by millions.  
 But the data from many matches is often spread out in different places.  
 This project puts match results, player information, and bowling stats together in one dashboard.  
