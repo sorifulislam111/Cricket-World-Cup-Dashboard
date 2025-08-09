@@ -6,13 +6,13 @@ It is easy to use and helps people see team results, player stats, and match det
 ---
 
 ## 📸 Dashboard Preview
-![Cricket World Cup Dashboard](https://github.com/sorifulislam111/Cricket-World-Cup-Dashboard/blob/main/Screenshot%202025-08-09%20145647.png)  
+![Cricket World Cup Dashboard](https://github.com/sorifulislam111/Cricket-World-Cup-Dashboard/blob/main/Screenshot%202025-08-09%20232444.png)  
 
 ---
 
 ## Live Files & Media
 - [Dashboard File (.pbix)](https://github.com/sorifulislam111/Cricket-World-Cup-Dashboard/blob/main/World%20Cup%20Cricket%20.pbix)  
-- [Dashboard Screenshot](https://github.com/sorifulislam111/Cricket-World-Cup-Dashboard/blob/main/Screenshot%202025-08-09%20145647.png)  
+- [Dashboard Screenshot](https://github.com/sorifulislam111/Cricket-World-Cup-Dashboard/blob/main/Screenshot%202025-08-09%20232444.png)  
 - [Video of the Report](https://github.com/sorifulislam111/Cricket-World-Cup-Dashboard/blob/main/Videos%20of%20the%20report.mp4)  
 
 ---
@@ -75,7 +75,7 @@ The project uses three main CSV files:
 
 ## Sample Insights
 Here are some examples of what the dashboard can show:
-- India’s win rate in World Cups from 2011–2023 was 78%.
+- India's win rate in World Cups from 2011–2023 was 78%.
 - Spin bowlers had a lower economy rate in Asian stadiums.
 - Teams batting first in finals won 60% of the time.
 
