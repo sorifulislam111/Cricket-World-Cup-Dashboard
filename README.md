@@ -6,7 +6,7 @@ It is easy to use and helps people see team results, player stats, and match det
 ---
 
 ## 📸 Dashboard Preview
-![Cricket World Cup Dashboard](0ecb90a3-2545-4b53-94a6-7de9aefb0f59.png)
+![Cricket World Cup Dashboard](https://github.com/sorifulislam111/Cricket-World-Cup-Dashboard/blob/main/Screenshot%202025-08-09%20145647.png)  
 
 ---
 
